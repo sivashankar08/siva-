@@ -1,0 +1,40 @@
+
+section{
+    
+    font-size: larger;
+    font-family: sans-serif;
+}
+div{
+    padding-left: 30%;
+}
+textarea{
+    height: 100px;
+    width: 600px;
+    border-radius: 15px;
+    font-weight: 100;
+    font-size: medium;
+}
+.theme{
+    height: 200px;
+    width: 700px;
+    border-radius: 15px;
+    font-weight: 300;
+    font-size: medium;
+}
+
+    
+
+.but
+{
+    text-align: center;
+    background-color: green;
+    font-size: medium;
+    
+}
+body{
+    background-image: url(assest/bbb.png);
+}
+body { font-family: Arial, sans-serif; margin: 20px; background-color: #f8f8f8; } 
+.form-container { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); }
+h2 { margin-bottom: 10px; } .option-group { margin-bottom: 20px; }
+ label { margin-right: 15px; }

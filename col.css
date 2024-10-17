@@ -1,0 +1,150 @@
+
+.text1{
+    font-size: xx-large;
+    font-family: sans-serif;
+    
+}
+.text2{
+   font-size: x-large;
+   font-family: sans-serif;
+}
+.text3{
+    font-size: x-large;
+    font-family: serif;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.text4{
+    font-size: large;
+    font-family:sans-serif ;
+    
+    
+}
+.text5{
+    font-size:  x-large;
+    font-family: cursive;
+  
+}
+.home{
+ 
+    background-color:black;
+}
+.lov{
+    
+    border-color: #ccf1ff;
+    border-width: 6px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    border-radius: 20px;
+    background-color:#FFCCCC ;
+}
+
+
+.lov :hover{
+    background-color: black;
+    color:#FF3399;
+}
+body{
+background-image: url(assest/bgimg.png);
+
+}
+.down{
+    background-color: black;
+    
+}
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;}
+
+.footer-content {
+    max-width: 800px;
+    margin: auto;
+}
+
+.footer-social a {
+    color: #FFF;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer-social a:hover {
+    color: #FFD700; /* Gold color for hover effect */
+}
+
+.footer-contact, .footer-address {
+    margin: 10px 0;
+}
+
+.footer-contact a {
+    color: #FFD700; /* Gold color for email link */
+    text-decoration: none;
+}
+
+.footer-contact a:hover {
+    text-decoration: underline;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar Styling */
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 20px;
+    background-color: #333;
+}
+
+.navbar .logo {
+    color: #FFF;
+    font-size: 24px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li {
+    margin: 0 15px;
+}
+
+.nav-links a {
+    color: #FFF;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.nav-links a:hover {
+    color: #FFD700; /* Gold color on hover */
+}
+
+/* CTA Button Styling */
+.cta-button {
+    background-color: #FFD700; /* Gold color */
+    color: #333;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+    background-color: #ffcc00; /* Lighter gold color on hover */
+}
+
+.cta-button:active {
+    background-color: #e6b800; /* Darker gold when clicked */
+}
